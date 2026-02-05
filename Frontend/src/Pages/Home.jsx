@@ -89,47 +89,48 @@ const steps = [
 const reviews = [
   {
     name: "Rakesh Kumar",
-    location: "Gaya, Bihar",
+    location: "Karmganj, Gaya",
     rating: 5,
-    text: "CyberHub Cafe ka service bahut fast hai. Aadhaar update aur online form easily ho gaya.",
-    img: "https://i.pravatar.cc/100?img=12",
+    text: "CyberHub Cafe ka service kaafi fast hai. Aadhaar update aur online form bina kisi problem ke ho gaya. Highly satisfied!",
+    img: "https://randomuser.me/api/portraits/men/32.jpg",
   },
   {
     name: "Priya Singh",
-    location: "Patna, Bihar",
+    location: "Maroofganj, Gaya",
     rating: 4,
-    text: "Staff bahut cooperative hai. CSC aur banking services ke liye best jagah.",
-    img: "https://i.pravatar.cc/100?img=32",
+    text: "Staff bahut cooperative aur polite hai. ",
+    img: "https://randomuser.me/api/portraits/women/44.jpg",
   },
   {
     name: "Mohammad Imran",
-    location: "Nawada, Bihar",
-    rating: 3,
-    text: "Trusted cyber cafe. Printing, scanning aur government services sab ek jagah.",
-    img: "https://i.pravatar.cc/100?img=45",
+    location: "Enayat Colony, Gaya",
+    rating: 5,
+    text: "CyberHub par government forms, printing aur scanning sab kuch easily ho jata hai. Time bhi save hota hai.",
+    img: "https://randomuser.me/api/portraits/men/76.jpg",
   },
   {
     name: "Sunita Devi",
-    location: "Bodh Gaya, Bihar",
+    location: "Gewal Bigha, Gaya",
     rating: 5,
-    text: "Pan card aur passport form bina tension ke ho gaya. Highly recommended.",
-    img: "https://i.pravatar.cc/100?img=56",
+    text: "PAN card aur passport form bina tension ke fill ho gaya. Staff ne proper guide kiya. Bahut achha experience raha.",
+    img: "https://randomuser.me/api/portraits/women/65.jpg",
   },
   {
     name: "Amit Verma",
-    location: "Jehanabad, Bihar",
+    location: "Karmganj, Gaya",
     rating: 4,
-    text: "Fast internet aur professional staff. Printing quality bhi achi hai.",
-    img: "https://i.pravatar.cc/100?img=22",
+    text: "Fast internet, clean environment aur professional staff. Printing quality bhi kaafi achhi hai.",
+    img: "https://randomuser.me/api/portraits/men/54.jpg",
   },
   {
     name: "Neha Kumari",
-    location: "Gaya, Bihar",
+    location: "Maroofganj, Gaya",
     rating: 5,
-    text: "CyberHub best hai CSC aur government related kaam ke liye.",
-    img: "https://i.pravatar.cc/100?img=67",
+    text: "CyberHub Gaya ka best cyber cafe hai. CSC aur government related kaam ke liye main hamesha yahin aati hoon.",
+    img: "https://randomuser.me/api/portraits/women/28.jpg",
   },
 ];
+
 
 
 // contact page data
