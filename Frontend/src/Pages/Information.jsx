@@ -1,7 +1,7 @@
 import { motion } from "framer-motion";
 import { useEffect, useRef } from "react";
 import Shop1 from "../assets/shop1.jpeg";
-import Shop2 from "../Assets/shop2.jpeg";
+import Shop2 from "../assets/shop2.jpeg";
 
 const updates = [
   "📢 Aadhaar Update service available daily (10 AM – 6 PM)",
